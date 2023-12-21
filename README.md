@@ -139,5 +139,12 @@ the terms of the MIT license.
 
 See `COPYING` for more details.
 
-Copyright (c) 2013-2014 Struktur AG
+Copyright (c) 2013-2014 Struktur AGThe selected text appears to be a block of data related to the **DASH.main** blockchain. Here's a summary:
+
+- **Block Height**: The height of the block in the blockchain is **1991241**.
+- **Block Hash**: The unique identifier of the block is **0000000000000043fa7fbbd9ae6a7f175a53318446f3ff0ef5486d8cdad26886**.
+- **Time**: The block was created on **2023-12-21T02:29:27.411336419Z**.
+- **Peer Count**: The number of peers connected to the network is **195**.
+- **Unconfirmed Count**: The number of unconfirmed transactions is **107**.
+- **Fees per Kb**: The high, medium, and low fees per kilobyte are **19500**, **14229**, and **8826** respectively
 Contact: Dirk Farin <farin@struktur.de>
